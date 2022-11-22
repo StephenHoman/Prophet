@@ -31,13 +31,13 @@ API usage, regex, fileIO, Documentation
 4. Give a sentiment analysis score using the natural language tool kit Vader. 
 
 ## Disclaimer: This will not be 100% accurate depending on the type of video captions you use. 
-- ** Video must have captions. 
-- ** Video captions should be written in punctually correct english
+-     Video must have captions. 
+-     Video captions should be written in punctually correct english
 
 ***Some videos like Jim Cramer Mad Money have great punctuation but Jim Cramer does not speak how this model is configured. 
 
 ## Ambitions for the future. 
-1. scan text for stock tickers. 
+1. Scan text for stock tickers. 
 2. Incorporate some intelligent text processing to string together captions on a basis that is more accurate than punctuation on poorly captioned videos.
 
 
