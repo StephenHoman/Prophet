@@ -8,6 +8,18 @@ from youtube_transcript_api import YouTubeTranscriptApi
 # assigning srt vaariable with the list 
 # of dictionaries obtained by the get_transcript() function
 def collectCaptions():
+    print("""\
+    $$$$$$$\                                $$\                   $$\     
+    $$  __$$\                               $$ |                  $$ |    
+    $$ |  $$ | $$$$$$\   $$$$$$\   $$$$$$\  $$$$$$$\   $$$$$$\  $$$$$$\   
+    $$$$$$$  |$$  __$$\ $$  __$$\ $$  __$$\ $$  __$$\ $$  __$$\ \_$$  _|  
+    $$  ____/ $$ |  \__|$$ /  $$ |$$ /  $$ |$$ |  $$ |$$$$$$$$ |  $$ |    
+    $$ |      $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$   ____|  $$ |$$\ 
+    $$ |      $$ |      \$$$$$$  |$$$$$$$  |$$ |  $$ |\$$$$$$$\   \$$$$  |
+    \__|      \__|       \______/ $$  ____/ \__|  \__| \_______|   \____/ 
+                                    $$ |                                    
+                                    $$ |                                    
+                                    \__|                                    """)
     print("collectCaptions")
     videoID = input("Enter a VideoID ")
     ### Enter youtube video id in hyperlink after watch?v= 
@@ -33,6 +45,7 @@ def collectCaptions():
 ## all captions of a properly punctuated video, A prime example of this is Jim Cramer MadMoney
 ## on youtube. 
 def datascan():
+    
     print("datascan")
     dict = {}
     print(dict)
@@ -95,7 +108,7 @@ def reformat():
                 ###########################################################    
 
             else: ## loops and appends the string. 
-                print("else")
+                #print("else")
                 sentence += " " + substring
                     # iteration of this loop prints out the actual values 
                     # Compound: $0
