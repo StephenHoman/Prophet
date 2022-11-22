@@ -27,7 +27,7 @@ API usage, regex, fileIO, Documentation
 ## This is a small python program that  will 
 1. Grab Youtube video captions and save them to a file. 
 2. Clean the format of the captions. 
-3. Attempt to form coherant sentences by finding punctuation (.?!) 
+3. Attempt to form coherent sentences by finding punctuation (.?!) 
 4. Give a sentiment analysis score using the natural language tool kit Vader. 
 
 ## Disclaimer: This will not be 100% accurate depending on the type of video captions you use. 
