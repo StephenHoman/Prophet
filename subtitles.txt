@@ -1,0 +1,207 @@
+{'text': 'foreign', 'start': 1.02, 'duration': 2.959}
+{'text': 'one up there on the board', 'start': 6.0, 'duration': 3.62}
+{'text': 'I want to thank you all of you for', 'start': 11.4, 'duration': 3.96}
+{'text': 'joining today', 'start': 13.679, 'duration': 3.781}
+{'text': 'I just got back from an overseas trip', 'start': 15.36, 'duration': 5.64}
+{'text': 'where I spoke in Egypt at the cop 27.', 'start': 17.46, 'duration': 5.22}
+{'text': 'the United Nations climate conference', 'start': 21.0, 'duration': 2.82}
+{'text': 'and then', 'start': 22.68, 'duration': 3.3}
+{'text': 'to the leaders of the asean countries in', 'start': 23.82, 'duration': 3.42}
+{'text': 'Cambodia', 'start': 25.98, 'duration': 3.299}
+{'text': 'we also met with the indo-pacific Allies', 'start': 27.24, 'duration': 4.199}
+{'text': 'including a trilateral meeting with', 'start': 29.279, 'duration': 4.981}
+{'text': 'Japan and the Republican Korea and with', 'start': 31.439, 'duration': 5.821}
+{'text': 'President XI and Bali as well as the', 'start': 34.26, 'duration': 5.22}
+{'text': 'leaders of the G20 and the countries uh', 'start': 37.26, 'duration': 4.26}
+{'text': 'with many of the largest economies in', 'start': 39.48, 'duration': 3.12}
+{'text': 'the world', 'start': 41.52, 'duration': 3.18}
+{'text': 'it was clear to me and I think to most', 'start': 42.6, 'duration': 3.84}
+{'text': 'people in those meetings that the United', 'start': 44.7, 'duration': 3.72}
+{'text': "States is as well they're better", 'start': 46.44, 'duration': 4.32}
+{'text': 'position than any nation in the world to', 'start': 48.42, 'duration': 4.38}
+{'text': 'lead the world on the economy in the', 'start': 50.76, 'duration': 3.24}
+{'text': 'years ahead', 'start': 52.8, 'duration': 3.419}
+{'text': "and there's a strong sense from all the", 'start': 54.0, 'duration': 4.14}
+{'text': 'leaders of the world of the strength of', 'start': 56.219, 'duration': 4.5}
+{'text': "the American economy and we've seen the", 'start': 58.14, 'duration': 4.2}
+{'text': 'willingness to want to work together and', 'start': 60.719, 'duration': 3.241}
+{'text': 'also here at home', 'start': 62.34, 'duration': 3.599}
+{'text': 'we had an extraordinary two years of', 'start': 63.96, 'duration': 3.72}
+{'text': 'progress from the American Rescue plan', 'start': 65.939, 'duration': 4.281}
+{'text': 'the bipartisan infrastructure law', 'start': 67.68, 'duration': 5.1}
+{'text': 'inflation reduction Act and the chipson', 'start': 70.22, 'duration': 5.2}
+{'text': "science act but what I'm most excited", 'start': 72.78, 'duration': 5.159}
+{'text': 'about is that people are starting to see', 'start': 75.42, 'duration': 4.32}
+{'text': 'the impact of these legislative', 'start': 77.939, 'duration': 3.841}
+{'text': "achievements in their own lives we're", 'start': 79.74, 'duration': 4.44}
+{'text': 'just getting started we passed them this', 'start': 81.78, 'duration': 4.26}
+{'text': "year but now they're really going to", 'start': 84.18, 'duration': 3.299}
+{'text': "kick into effect it's going to", 'start': 86.04, 'duration': 4.5}
+{'text': 'accelerate in the months ahead and the', 'start': 87.479, 'duration': 4.441}
+{'text': 'implementation of these legislative', 'start': 90.54, 'duration': 3.0}
+{'text': 'achievements are going to be one of the', 'start': 91.92, 'duration': 4.26}
+{'text': 'key parts of the success I believe for', 'start': 93.54, 'duration': 5.1}
+{'text': "the economy and that's one of the", 'start': 96.18, 'duration': 3.78}
+{'text': 'reasons why I wanted to bring us', 'start': 98.64, 'duration': 4.26}
+{'text': "together today you know I've called", 'start': 99.96, 'duration': 4.92}
+{'text': 'together a group of Labor leaders and', 'start': 102.9, 'duration': 4.44}
+{'text': 'Business Leaders to discuss progress in', 'start': 104.88, 'duration': 4.739}
+{'text': 'building the economy from the bottom up', 'start': 107.34, 'duration': 5.04}
+{'text': "in the middle out and we're in when and", 'start': 109.619, 'duration': 4.981}
+{'text': 'there have been Partners in creating the', 'start': 112.38, 'duration': 4.559}
+{'text': 'jobs of the future and in building a', 'start': 114.6, 'duration': 4.44}
+{'text': 'world-class workplace ready to compete', 'start': 116.939, 'duration': 4.021}
+{'text': 'to fill those jobs', 'start': 119.04, 'duration': 3.96}
+{'text': 'and our approach I believe is working', 'start': 120.96, 'duration': 6.119}
+{'text': 'the economy grew at 2.6 percent last', 'start': 123.0, 'duration': 6.84}
+{'text': 'quarter while inflation started to slow', 'start': 127.079, 'duration': 5.401}
+{'text': 'and unemployment started stayed low', 'start': 129.84, 'duration': 4.68}
+{'text': 'but what do what do these economic', 'start': 132.48, 'duration': 4.32}
+{'text': 'statistics really mean to people well', 'start': 134.52, 'duration': 4.74}
+{'text': "here's what they mean in my view we've", 'start': 136.8, 'duration': 4.26}
+{'text': 'added jobs every single month of my', 'start': 139.26, 'duration': 4.199}
+{'text': 'presidency more than 10 million jobs', 'start': 141.06, 'duration': 3.42}
+{'text': 'total', 'start': 143.459, 'duration': 4.561}
+{'text': '700 000 of them were manufacturing jobs', 'start': 144.48, 'duration': 5.58}
+{'text': 'inflation of the grocery store is coming', 'start': 148.02, 'duration': 4.74}
+{'text': 'down slightly prices for things like', 'start': 150.06, 'duration': 4.62}
+{'text': 'clothes and television and appliances', 'start': 152.76, 'duration': 4.26}
+{'text': 'are going down as well as we head into', 'start': 154.68, 'duration': 5.1}
+{'text': 'the holidays this week we saw the growth', 'start': 157.02, 'duration': 5.999}
+{'text': 'in prices and business pay for goods and', 'start': 159.78, 'duration': 5.22}
+{'text': 'services to come down as well', 'start': 163.019, 'duration': 4.681}
+{'text': "gas prices are down but it's going to", 'start': 165.0, 'duration': 4.379}
+{'text': "take it's going to take time to get", 'start': 167.7, 'duration': 3.539}
+{'text': "inflation back to us thus far we're in", 'start': 169.379, 'duration': 4.44}
+{'text': "good shape but we're laser focused on", 'start': 171.239, 'duration': 3.661}
+{'text': 'that', 'start': 173.819, 'duration': 4.2}
+{'text': 'and the six short weeks uh in six short', 'start': 174.9, 'duration': 4.86}
+{'text': 'weeks Americans are going to start to', 'start': 178.019, 'duration': 3.601}
+{'text': 'feel the effects of the inflation', 'start': 179.76, 'duration': 4.979}
+{'text': 'reduction Act come January 1st seniors', 'start': 181.62, 'duration': 5.88}
+{'text': 'with diabetes on Medicare are going to', 'start': 184.739, 'duration': 5.161}
+{'text': 'pay no more than 35 dollars a month for', 'start': 187.5, 'duration': 5.099}
+{'text': 'prescription of insulin some pay as much', 'start': 189.9, 'duration': 5.1}
+{'text': 'as four hundred dollars a month now this', 'start': 192.599, 'duration': 4.86}
+{'text': 'matters to folks like Bob who lives in', 'start': 195.0, 'duration': 5.04}
+{'text': 'Long Island who has had diabetes for', 'start': 197.459, 'duration': 4.801}
+{'text': "nearly 50 years and he's had a leg", 'start': 200.04, 'duration': 5.04}
+{'text': 'amputated and has issues with eyesight', 'start': 202.26, 'duration': 4.619}
+{'text': 'because of the complication of his', 'start': 205.08, 'duration': 4.079}
+{'text': 'diabetes Bob came to the White House a', 'start': 206.879, 'duration': 4.561}
+{'text': 'few months ago and talked about how he', 'start': 209.159, 'duration': 4.8}
+{'text': 'has to pay 300 out of pocket every 90', 'start': 211.44, 'duration': 5.879}
+{'text': "days for his insulin now you won't have", 'start': 213.959, 'duration': 5.221}
+{'text': 'to choose that beginning January 1st', 'start': 217.319, 'duration': 3.961}
+{'text': 'paying for a trip between choosing', 'start': 219.18, 'duration': 4.5}
+{'text': 'between a trip to see his grandkids or', 'start': 221.28, 'duration': 4.019}
+{'text': 'to pay for his insulin in order to', 'start': 223.68, 'duration': 4.86}
+{'text': 'survive this matters there are millions', 'start': 225.299, 'duration': 4.881}
+{'text': 'of folks like Bob across the country', 'start': 228.54, 'duration': 4.38}
+{'text': 'people are going to get a little more', 'start': 230.18, 'duration': 5.38}
+{'text': 'breeding room come January 1st', 'start': 232.92, 'duration': 5.16}
+{'text': "and every Bob for every Bob there's a", 'start': 235.56, 'duration': 5.28}
+{'text': "person who won't have to pay 100 or as", 'start': 238.08, 'duration': 5.159}
+{'text': 'much as 200 for shingles vaccine anymore', 'start': 240.84, 'duration': 5.459}
+{'text': 'come January 1 seniors on Medicare Part', 'start': 243.239, 'duration': 5.521}
+{'text': 'D will get the recommended vaccines like', 'start': 246.299, 'duration': 6.421}
+{'text': 'shingle vaccines for free no copay all', 'start': 248.76, 'duration': 6.539}
+{'text': 'this matters right now four out of five', 'start': 252.72, 'duration': 4.799}
+{'text': 'folks who sign up for health insurance', 'start': 255.299, 'duration': 4.801}
+{'text': 'through the Affordable Care Act can get', 'start': 257.519, 'duration': 5.101}
+{'text': 'health care coverage for ten dollars a', 'start': 260.1, 'duration': 3.9}
+{'text': 'month or less', 'start': 262.62, 'duration': 3.84}
+{'text': 'these lower rates were set to expire on', 'start': 264.0, 'duration': 4.68}
+{'text': 'January 1st of this coming year', 'start': 266.46, 'duration': 4.98}
+{'text': 'but instead we were able to extend them', 'start': 268.68, 'duration': 4.92}
+{'text': 'you need health insurance you can sign', 'start': 271.44, 'duration': 4.86}
+{'text': 'up for those lower rates right now just', 'start': 273.6, 'duration': 5.28}
+{'text': 'go to healthcare.gov', 'start': 276.3, 'duration': 5.399}
+{'text': "already we've seen nearly 40 increase in", 'start': 278.88, 'duration': 4.98}
+{'text': 'new sign ups over last year', 'start': 281.699, 'duration': 4.5}
+{'text': "we're also helping folks save money on", 'start': 283.86, 'duration': 5.76}
+{'text': 'our energy bills starting January 1 you', 'start': 286.199, 'duration': 5.161}
+{'text': 'can get up to three thousand two hundred', 'start': 289.62, 'duration': 3.78}
+{'text': 'dollars tax credit to make your home', 'start': 291.36, 'duration': 4.44}
+{'text': 'more energy efficient you can get up to', 'start': 293.4, 'duration': 4.079}
+{'text': 'six hundred dollar tax credit for new', 'start': 295.8, 'duration': 5.52}
+{'text': 'windows 500 for new Doors 2 000 install', 'start': 297.479, 'duration': 7.28}
+{'text': 'heat pump 600 to replace electric panels', 'start': 301.32, 'duration': 7.02}
+{'text': "these are what here's what this means if", 'start': 304.759, 'duration': 5.621}
+{'text': "you're living in a home with a drafty", 'start': 308.34, 'duration': 3.84}
+{'text': 'windows and doors starting January 1', 'start': 310.38, 'duration': 4.02}
+{'text': "you'll be able to save up to one", 'start': 312.18, 'duration': 3.9}
+{'text': 'thousand one hundred dollars in the cost', 'start': 314.4, 'duration': 4.32}
+{'text': "of replacing them and that's just on the", 'start': 316.08, 'duration': 4.619}
+{'text': "upgrade you're also going to save a lot", 'start': 318.72, 'duration': 3.419}
+{'text': 'of money going forward because your', 'start': 320.699, 'duration': 3.421}
+{'text': 'utility bills will be lower', 'start': 322.139, 'duration': 3.9}
+{'text': "and that's good for your wallet but it's", 'start': 324.12, 'duration': 3.6}
+{'text': 'also good for the environment', 'start': 326.039, 'duration': 4.38}
+{'text': "because you're using less energy that's", 'start': 327.72, 'duration': 3.84}
+{'text': 'not all', 'start': 330.419, 'duration': 3.0}
+{'text': 'if you want to install solar panels on', 'start': 331.56, 'duration': 4.44}
+{'text': 'the roof you can get a tax credit for 30', 'start': 333.419, 'duration': 5.761}
+{'text': "percent of the cost we'll bring down the", 'start': 336.0, 'duration': 5.16}
+{'text': 'cost of insulation by about seven', 'start': 339.18, 'duration': 3.84}
+{'text': 'thousand five hundred dollars', 'start': 341.16, 'duration': 3.72}
+{'text': 'and when you get to keep savings money', 'start': 343.02, 'duration': 4.56}
+{'text': 'on your electric bills for the remainder', 'start': 344.88, 'duration': 6.0}
+{'text': 'of the years about 300 a year on average', 'start': 347.58, 'duration': 5.7}
+{'text': 'look if you switch to electric pump', 'start': 350.88, 'duration': 4.92}
+{'text': 'teach your home you get a tax credit', 'start': 353.28, 'duration': 4.56}
+{'text': 'covering up to two thousand dollars of', 'start': 355.8, 'duration': 3.239}
+{'text': 'the cost', 'start': 357.84, 'duration': 3.66}
+{'text': 'but that heat pump that heat pump is', 'start': 359.039, 'duration': 3.901}
+{'text': 'going to save you hundreds of dollars a', 'start': 361.5, 'duration': 3.539}
+{'text': 'year on your energy bills depending on', 'start': 362.94, 'duration': 3.96}
+{'text': 'where you live and what kind of heating', 'start': 365.039, 'duration': 4.141}
+{'text': 'system you rely on today', 'start': 366.9, 'duration': 4.799}
+{'text': "look we're talking about real money here", 'start': 369.18, 'duration': 4.079}
+{'text': "to save people and it's just going to", 'start': 371.699, 'duration': 3.241}
+{'text': 'start kicking in now', 'start': 373.259, 'duration': 3.841}
+{'text': "by taking action we're making real", 'start': 374.94, 'duration': 3.66}
+{'text': 'progress and strengthening and', 'start': 377.1, 'duration': 3.36}
+{'text': 'stabilizing our economy', 'start': 378.6, 'duration': 4.02}
+{'text': 'giving Americans across the country some', 'start': 380.46, 'duration': 4.98}
+{'text': 'breathing room building this progress is', 'start': 382.62, 'duration': 5.16}
+{'text': "not just acting but it's listening", 'start': 385.44, 'duration': 4.74}
+{'text': "that's why I'm here today to open open", 'start': 387.78, 'duration': 4.62}
+{'text': 'the good ideas to continue bringing', 'start': 390.18, 'duration': 4.5}
+{'text': 'inflation down and continue creating an', 'start': 392.4, 'duration': 4.139}
+{'text': 'economy that works for everyone with', 'start': 394.68, 'duration': 3.42}
+{'text': 'these business and labor leaders are in', 'start': 396.539, 'duration': 2.821}
+{'text': 'front of me here', 'start': 398.1, 'duration': 4.14}
+{'text': 'folks in this room American labor unions', 'start': 399.36, 'duration': 5.22}
+{'text': 'American companies are key to building', 'start': 402.24, 'duration': 4.079}
+{'text': 'an economy from the bottom up in the', 'start': 404.58, 'duration': 4.02}
+{'text': 'middle out as I said I look forward to', 'start': 406.319, 'duration': 4.44}
+{'text': 'continuing to partner with them and', 'start': 408.6, 'duration': 3.78}
+{'text': 'hearing their thoughts about things I', 'start': 410.759, 'duration': 4.321}
+{'text': 'should do and should not do ways we can', 'start': 412.38, 'duration': 3.72}
+{'text': 'continue to strengthen the American', 'start': 415.08, 'duration': 3.059}
+{'text': 'economy and about how we can work', 'start': 416.1, 'duration': 3.659}
+{'text': 'together going forward', 'start': 418.139, 'duration': 3.301}
+{'text': "and now I'm going to turn it over to", 'start': 419.759, 'duration': 3.66}
+{'text': "Brian D's Director of National Economic", 'start': 421.44, 'duration': 4.199}
+{'text': "Council and he's going to continue this", 'start': 423.419, 'duration': 3.961}
+{'text': "meeting and we'll all intervene a wrong", 'start': 425.639, 'duration': 4.321}
+{'text': 'way but again thank you all for being', 'start': 427.38, 'duration': 4.2}
+{'text': 'here I really appreciate your help and', 'start': 429.96, 'duration': 4.5}
+{'text': "advice Brian it's all yours", 'start': 431.58, 'duration': 4.98}
+{'text': "thank you Mr President I think we're", 'start': 434.46, 'duration': 4.079}
+{'text': 'going to just pause a moment while they', 'start': 436.56, 'duration': 4.02}
+{'text': 'um we have the Press depart and we turn', 'start': 438.539, 'duration': 5.0}
+{'text': 'to the uh the rest of the meeting here', 'start': 440.58, 'duration': 7.1}
+{'text': "but as they do I'll just uh", 'start': 443.539, 'duration': 4.141}
+{'text': 'to being here together', 'start': 448.099, 'duration': 5.52}
+{'text': '[Music]', 'start': 450.54, 'duration': 3.079}
+{'text': 'a long overseas trip here so looking', 'start': 454.16, 'duration': 4.659}
+{'text': 'forward to the conversation any reaction', 'start': 457.319, 'duration': 3.38}
+{'text': 'to the appointment', 'start': 458.819, 'duration': 5.66}
+{'text': 'thank you thank you thank you', 'start': 460.699, 'duration': 3.78}
+{'text': "what's your message to North Korea", 'start': 470.479, 'duration': 4.681}
+{'text': 'um', 'start': 481.5, 'duration': 2.12}
+{'text': 'just to start things off', 'start': 498.9, 'duration': 5.22}
+{'text': 'alternative Florida secretary Yellen', 'start': 501.539, 'duration': 5.421}
+{'text': "I'm traveling around", 'start': 504.12, 'duration': 2.84}
