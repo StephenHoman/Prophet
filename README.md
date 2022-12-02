@@ -24,7 +24,7 @@ API usage, regex, fileIO, Documentation
 - NLTK.VADER
 
 
-## This is a small python program that  will 
+## This is a Python program that  will 
 1. Grab Youtube video captions and save them to a file. 
 2. Clean the format of the captions. 
 3. Attempt to form coherent sentences by finding punctuation (.?!) 
