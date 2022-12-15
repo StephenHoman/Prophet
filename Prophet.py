@@ -1,4 +1,4 @@
--*- coding: utf-8 -*-
+# coding: utf-8 
 from nltk import tokenize
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 ##import pymongo
