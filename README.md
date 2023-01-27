@@ -16,8 +16,9 @@
 ## The name is a play on words for the final goal of this code. 
 When complete it will be able to parse Youtube video captions for statements that include Company names or tickers. 
 Then applying sentiment analysis and getting a score for each company.
-Limitations of the Vader model would not render accurate results at this time. However it will accurately score sentences including 
-words with generally positive or negative connotation. 
+
+However it will accurately score sentences in general right now. 
+
 
 API usage, regex, fileIO, Documentation
 - YoutubeCaptionAPI
@@ -34,7 +35,7 @@ API usage, regex, fileIO, Documentation
 -     Video must have captions. 
 -     Video captions should be written in punctually correct english
 
-***Some videos like Jim Cramer Mad Money have great punctuation but Jim Cramer does not speak how this model is configured. 
+
 
 ## Ambitions for the future. 
 1. Scan text for stock tickers. 
